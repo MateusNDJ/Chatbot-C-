@@ -1,0 +1,46 @@
+C:\Users\nobre\OneDrive\Área de Trabalho\Nova pasta\CHATBOT\CHATBOT\bin\Debug\net8.0\CHATBOT.exe
+C:\Users\nobre\OneDrive\Área de Trabalho\Nova pasta\CHATBOT\CHATBOT\bin\Debug\net8.0\CHATBOT.deps.json
+C:\Users\nobre\OneDrive\Área de Trabalho\Nova pasta\CHATBOT\CHATBOT\bin\Debug\net8.0\CHATBOT.runtimeconfig.json
+C:\Users\nobre\OneDrive\Área de Trabalho\Nova pasta\CHATBOT\CHATBOT\bin\Debug\net8.0\CHATBOT.dll
+C:\Users\nobre\OneDrive\Área de Trabalho\Nova pasta\CHATBOT\CHATBOT\bin\Debug\net8.0\CHATBOT.pdb
+C:\Users\nobre\OneDrive\Área de Trabalho\Nova pasta\CHATBOT\CHATBOT\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nobre\OneDrive\Área de Trabalho\Nova pasta\CHATBOT\CHATBOT\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nobre\OneDrive\Área de Trabalho\Nova pasta\CHATBOT\CHATBOT\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\nobre\OneDrive\Área de Trabalho\Nova pasta\CHATBOT\CHATBOT\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nobre\OneDrive\Área de Trabalho\Nova pasta\CHATBOT\CHATBOT\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\nobre\OneDrive\Área de Trabalho\Nova pasta\CHATBOT\CHATBOT\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\nobre\OneDrive\Área de Trabalho\Nova pasta\CHATBOT\CHATBOT\bin\Debug\net8.0\Mscc.GenerativeAI.dll
+C:\Users\nobre\OneDrive\Área de Trabalho\Nova pasta\CHATBOT\CHATBOT\obj\Debug\net8.0\CHATBOT.csproj.AssemblyReference.cache
+C:\Users\nobre\OneDrive\Área de Trabalho\Nova pasta\CHATBOT\CHATBOT\obj\Debug\net8.0\CHATBOT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nobre\OneDrive\Área de Trabalho\Nova pasta\CHATBOT\CHATBOT\obj\Debug\net8.0\CHATBOT.AssemblyInfoInputs.cache
+C:\Users\nobre\OneDrive\Área de Trabalho\Nova pasta\CHATBOT\CHATBOT\obj\Debug\net8.0\CHATBOT.AssemblyInfo.cs
+C:\Users\nobre\OneDrive\Área de Trabalho\Nova pasta\CHATBOT\CHATBOT\obj\Debug\net8.0\CHATBOT.csproj.CoreCompileInputs.cache
+C:\Users\nobre\OneDrive\Área de Trabalho\Nova pasta\CHATBOT\CHATBOT\obj\Debug\net8.0\CHATBOT.csproj.Up2Date
+C:\Users\nobre\OneDrive\Área de Trabalho\Nova pasta\CHATBOT\CHATBOT\obj\Debug\net8.0\CHATBOT.dll
+C:\Users\nobre\OneDrive\Área de Trabalho\Nova pasta\CHATBOT\CHATBOT\obj\Debug\net8.0\refint\CHATBOT.dll
+C:\Users\nobre\OneDrive\Área de Trabalho\Nova pasta\CHATBOT\CHATBOT\obj\Debug\net8.0\CHATBOT.pdb
+C:\Users\nobre\OneDrive\Área de Trabalho\Nova pasta\CHATBOT\CHATBOT\obj\Debug\net8.0\CHATBOT.genruntimeconfig.cache
+C:\Users\nobre\OneDrive\Área de Trabalho\Nova pasta\CHATBOT\CHATBOT\obj\Debug\net8.0\ref\CHATBOT.dll
+C:\Users\nobre\OneDrive\Área de Trabalho\bot base main\CHATBOT\CHATBOT\bin\Debug\net8.0\CHATBOT.exe
+C:\Users\nobre\OneDrive\Área de Trabalho\bot base main\CHATBOT\CHATBOT\bin\Debug\net8.0\CHATBOT.deps.json
+C:\Users\nobre\OneDrive\Área de Trabalho\bot base main\CHATBOT\CHATBOT\bin\Debug\net8.0\CHATBOT.runtimeconfig.json
+C:\Users\nobre\OneDrive\Área de Trabalho\bot base main\CHATBOT\CHATBOT\bin\Debug\net8.0\CHATBOT.dll
+C:\Users\nobre\OneDrive\Área de Trabalho\bot base main\CHATBOT\CHATBOT\bin\Debug\net8.0\CHATBOT.pdb
+C:\Users\nobre\OneDrive\Área de Trabalho\bot base main\CHATBOT\CHATBOT\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nobre\OneDrive\Área de Trabalho\bot base main\CHATBOT\CHATBOT\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nobre\OneDrive\Área de Trabalho\bot base main\CHATBOT\CHATBOT\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\nobre\OneDrive\Área de Trabalho\bot base main\CHATBOT\CHATBOT\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nobre\OneDrive\Área de Trabalho\bot base main\CHATBOT\CHATBOT\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\nobre\OneDrive\Área de Trabalho\bot base main\CHATBOT\CHATBOT\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\nobre\OneDrive\Área de Trabalho\bot base main\CHATBOT\CHATBOT\bin\Debug\net8.0\Mscc.GenerativeAI.dll
+C:\Users\nobre\OneDrive\Área de Trabalho\bot base main\CHATBOT\CHATBOT\obj\Debug\net8.0\CHATBOT.csproj.AssemblyReference.cache
+C:\Users\nobre\OneDrive\Área de Trabalho\bot base main\CHATBOT\CHATBOT\obj\Debug\net8.0\CHATBOT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nobre\OneDrive\Área de Trabalho\bot base main\CHATBOT\CHATBOT\obj\Debug\net8.0\CHATBOT.AssemblyInfoInputs.cache
+C:\Users\nobre\OneDrive\Área de Trabalho\bot base main\CHATBOT\CHATBOT\obj\Debug\net8.0\CHATBOT.AssemblyInfo.cs
+C:\Users\nobre\OneDrive\Área de Trabalho\bot base main\CHATBOT\CHATBOT\obj\Debug\net8.0\CHATBOT.csproj.CoreCompileInputs.cache
+C:\Users\nobre\OneDrive\Área de Trabalho\bot base main\CHATBOT\CHATBOT\obj\Debug\net8.0\CHATBOT.csproj.Up2Date
+C:\Users\nobre\OneDrive\Área de Trabalho\bot base main\CHATBOT\CHATBOT\obj\Debug\net8.0\CHATBOT.dll
+C:\Users\nobre\OneDrive\Área de Trabalho\bot base main\CHATBOT\CHATBOT\obj\Debug\net8.0\refint\CHATBOT.dll
+C:\Users\nobre\OneDrive\Área de Trabalho\bot base main\CHATBOT\CHATBOT\obj\Debug\net8.0\CHATBOT.pdb
+C:\Users\nobre\OneDrive\Área de Trabalho\bot base main\CHATBOT\CHATBOT\obj\Debug\net8.0\CHATBOT.genruntimeconfig.cache
+C:\Users\nobre\OneDrive\Área de Trabalho\bot base main\CHATBOT\CHATBOT\obj\Debug\net8.0\ref\CHATBOT.dll
